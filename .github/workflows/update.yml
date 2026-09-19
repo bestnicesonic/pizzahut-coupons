@@ -1,0 +1,33 @@
+name: Update Pizza Hut Official Coupons
+
+on:
+  schedule:
+    # 台灣時間 (UTC+8) 08:00 ~ 24:00 每一小時執行一次；凌晨 01:00 ~ 07:00 休眠不跑！
+    - cron: '0 0-16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Crawler
+        run: |
+          python crawler.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add pizzahut_official.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update pizzahut official coupons [skip ci]" && git push)

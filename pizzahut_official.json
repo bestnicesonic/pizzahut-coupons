@@ -1,0 +1,162 @@
+{
+  "updated_at": "2026-09-20T01:03:00.769904",
+  "total": 13,
+  "coupons": [
+    {
+      "couponCode": "94700",
+      "name": "外送限定-94700單點大比薩7折",
+      "fullName": "外送限定-94700單點大比薩7折",
+      "price": "0",
+      "description": "單點13吋大比薩1個，全系列口味皆可單點外送到家。",
+      "category": "神級優惠3折起",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/66da1615989519ef41953919b9e14db3.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=94700",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "94555",
+      "name": "外帶-94555超值單點大比薩半價",
+      "fullName": "外帶-94555超值單點大比薩半價",
+      "price": "0",
+      "description": "-13吋大比薩1個，10種超值口味-新口味-醬燒鮮蛤田園、熱帶鳳梨海鮮總匯、炙燒豬肉總匯等任選。",
+      "category": "神級優惠3折起",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/f112754c065a34a7520b7193ba893864.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=94555",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "94666",
+      "name": "APP專屬-外帶-94666人氣美味單點大比薩6折 (免費再送烤雞)",
+      "fullName": "APP專屬-外帶-94666人氣美味單點大比薩6折 (免費再送烤雞)",
+      "price": "0",
+      "description": "-加購芝心限時8折! 13吋大比薩一個- 和風章魚燒、海鮮四重奏、韓式泡菜豬五花等任選 免費再送厚燒醬烤BBQ (2腿2排) 或 BBQ烤雞 8塊(4翅4腿)",
+      "category": "神級優惠3折起",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/31c54596cf533d7474d094981a865ebc.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=94666",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "94601",
+      "name": "開學優惠！超級總匯/炙燒明太子嫩雞/鐵板雙牛$249",
+      "fullName": "94601-開學優惠！超級總匯/炙燒明太子嫩雞/鐵板雙牛$249",
+      "price": "249",
+      "description": "超級總匯/炙燒明太子嫩雞/鐵板雙牛$249",
+      "category": "開學季優惠",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/60e25af90e1f1013b9a050aa6b13e4fa.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=94601",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "91113",
+      "name": "開學優惠！個人比薩五享餐$199",
+      "fullName": "91113-開學優惠！個人比薩五享餐$199",
+      "price": "199",
+      "description": "主食+-QQ球*5顆+薯金幣(小)+起司豬肉條*4條+飲料",
+      "category": "開學季優惠",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/95eae2b7566fa6297f1698aa61a4d562.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=91113",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "91111",
+      "name": "開學優惠！個人比薩$101餐",
+      "fullName": "91111-開學優惠！個人比薩$101餐",
+      "price": "101",
+      "description": "經典系列個人比薩*1+副食*1+飲料*1",
+      "category": "開學季優惠",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/4155ea8daf1fb970dc840a3480e82185.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=91111",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "91107",
+      "name": "91107買紙包麵/飯送個人比薩",
+      "fullName": "91107買紙包麵/飯送個人比薩",
+      "price": "0",
+      "description": "紙包麵/義大利麵/紙包飯/燉飯x1 + 指定口味個人比薩x1",
+      "category": "開學季優惠",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/a42fb6039cfd09b5ed3887266bc35830.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=91107",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "93014",
+      "name": "大比薩分享餐$399",
+      "fullName": "大比薩分享餐$399",
+      "price": "399",
+      "description": "指定大比薩+黃金和風鱈魚塊(5塊)+巧克力QQ球(5顆)+酥炸嫩雞球",
+      "category": "雙人豪飽餐",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/93f98e2c012973dd226f722864af19fd.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=93014",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "93022",
+      "name": "火山熔岩歡聚餐$597",
+      "fullName": "93022-火山熔岩歡聚餐$597",
+      "price": "597",
+      "description": "火山熔岩大比薩+大比薩 特價$597起！",
+      "category": "派對激省餐",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/eb897ddadd2ee3dadabc3306214f3918.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=93022",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "93015",
+      "name": "3個大比薩$888起",
+      "fullName": "93015-3個大比薩$888起",
+      "price": "888",
+      "description": "3個大比薩(20種以上口味任選)$888起！第一個大比薩限定$565～$790 口味；第二、三個大比薩可選 $620 以上口味，超過 $620 部分需補差價。",
+      "category": "派對激省餐",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/8eb89493a8e334bf374f34e8e20871c4.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=93015",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "93002",
+      "name": "雙比薩黃金激省餐",
+      "fullName": "雙比薩黃金激省餐",
+      "price": "0",
+      "description": "2個大比薩+黃金雞柳條8條+黃金和風鱈魚塊(10塊)+QQ球5顆",
+      "category": "派對激省餐",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/0e5312035deceb7386e46fa29168e78d.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=93002",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "92002",
+      "name": "點心超值組",
+      "fullName": "點心超值組",
+      "price": "0",
+      "description": "薯金幣小份+麻糬QQ球小份 (4個)",
+      "category": "銅板超值選",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/2d2b85e2a0999ab7f0ee75953d41e742.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=92002",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    },
+    {
+      "couponCode": "92001",
+      "name": "雞球超值組",
+      "fullName": "雞球超值組",
+      "price": "0",
+      "description": "酥炸嫩雞球+麻糬QQ球小份 (4個)",
+      "category": "銅板超值選",
+      "imageUrl": "https://image.pizzahut.com.tw/dynamic/content/c2d7925aab95e54eb094f44ff5ca0d98.jpg",
+      "orderUrl": "https://www.pizzahut.com.tw/order/?mode=step_2&type_id=1025&cno=92001",
+      "isOfficial": true,
+      "source": "必勝客官方促銷"
+    }
+  ]
+}
