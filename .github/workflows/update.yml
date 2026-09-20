@@ -2,7 +2,8 @@ name: Update Pizza Hut Official Coupons
 
 on:
   schedule:
-    # 台灣時間 (UTC+8) 08:00 ~ 24:00 每一小時執行一次；凌晨 01:00 ~ 07:00 休眠不跑！
+    # 台灣時間 (UTC+8) 08:00 ~ 24:00 每小時整點執行一次；凌晨 01:00 ~ 07:00 門市打烊休眠不跑！
+    # 對應 UTC 00:00 ~ 16:00
     - cron: '0 0-16 * * *'
   workflow_dispatch:
 
@@ -31,3 +32,7 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add pizzahut_official.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update pizzahut official coupons [skip ci]" && git push)
+
+      # 🛡️ 官方 60 天大限終極防禦盾：若超過 45 天無 commit，自動觸發保活 dummy commit
+      - name: Keepalive Workflow Shield
+        uses: gautamkrishnar/keepalive-workflow@v2
